@@ -1,0 +1,1254 @@
+a -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+able -> {9}
+about -> {1, 4, 6, 9, 10, 13}
+abuse -> {13}
+accidentally -> {9, 10}
+according -> {4}
+acres -> {14}
+actually -> {1}
+administration -> {0}
+afghan -> {11}
+after -> {0, 1, 2, 6, 8, 12}
+aged -> {2}
+agency -> {4}
+ago -> {0, 3, 4, 6, 13}
+aid -> {9}
+alan -> {7}
+all -> {1, 4, 6, 7, 8, 10, 12, 14}
+allen -> {4}
+allotments -> {0}
+allow -> {13}
+allowing -> {13}
+almost -> {3, 4, 7, 13}
+alone -> {4}
+along -> {7}
+already -> {1, 4, 6, 13}
+also -> {2, 8, 10, 11, 13}
+altadena -> {4}
+although -> {6, 7}
+always -> {2, 4, 12}
+am -> {14}
+ambulance -> {8}
+american -> {6}
+ammunition -> {10}
+among -> {6}
+amount -> {1}
+amounts -> {13}
+amputated -> {4}
+an -> {4, 6, 7, 8, 9, 10, 11, 14}
+and -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+angelenos -> {6}
+angeles -> {6, 8}
+anniversary -> {4}
+annual -> {2, 6}
+another -> {2, 13}
+answer -> {6}
+antennas -> {7}
+any -> {2, 3, 11, 12}
+anyone -> {12}
+anything -> {7}
+apartment -> {10}
+apartments -> {2}
+apparent -> {4}
+appears -> {11}
+appliances -> {4}
+apply -> {14}
+approved -> {0}
+april -> {6}
+arcadia -> {3}
+are -> {1, 2, 3, 6, 12, 13, 14}
+area -> {14}
+arizona -> {1}
+around -> {3, 12}
+arrived -> {5}
+as -> {2, 4, 12, 14}
+asked -> {3, 14}
+asking -> {12}
+assisted -> {7}
+at -> {0, 1, 3, 5, 6, 8, 9, 10, 11, 12, 14}
+attendance -> {6}
+attitudes -> {2}
+attract -> {8}
+audience -> {6}
+authors -> {6}
+auto -> {7}
+autograph -> {6}
+available -> {6}
+avenue -> {8, 11}
+average -> {3}
+avoid -> {8}
+avoided -> {6}
+away -> {3, 5}
+baby -> {7}
+back -> {0, 5, 7, 8, 14}
+backbreaking -> {7}
+bad -> {14}
+bag -> {7}
+bags -> {0, 7}
+baldwin -> {10}
+balls -> {7}
+ban -> {13}
+band -> {2}
+bang -> {8}
+barco -> {3}
+barget -> {5}
+barney -> {10}
+bartering -> {0}
+basic -> {0}
+basis -> {13}
+batteries -> {7}
+bay -> {7}
+be -> {1, 2, 4, 6, 7, 9, 11, 13, 14}
+beach -> {12, 13}
+because -> {2, 3, 4, 7, 8, 13, 14}
+become -> {6}
+bedroom -> {12, 13}
+been -> {0, 1, 2, 3, 4, 5}
+before -> {9}
+behind -> {8}
+believes -> {1}
+beloved -> {1}
+berserk -> {0}
+best -> {2}
+better -> {2, 11}
+between -> {11}
+bicycles -> {7}
+big -> {0, 7, 11, 14}
+bigger -> {11}
+bikers -> {14}
+bill -> {11}
+binoculars -> {2}
+biopsy -> {1}
+birder -> {2}
+birding -> {2}
+births -> {1}
+bizarre -> {1}
+black -> {10}
+blanket -> {11}
+blind -> {4}
+block -> {3}
+blocks -> {8}
+blue -> {5}
+bob -> {5}
+book -> {6}
+books -> {6, 8}
+bookstore -> {8}
+boon -> {13}
+boots -> {7}
+born -> {1}
+both -> {8}
+bottle -> {8}
+bottles -> {7}
+bought -> {3, 5, 10, 12}
+bowling -> {7}
+boxes -> {10}
+boy -> {7, 11}
+braked -> {8}
+brakes -> {8}
+brand -> {9}
+breakfast -> {5}
+bring -> {2, 12, 13}
+brown -> {13}
+brush -> {14}
+bubble -> {12}
+budget -> {13}
+bulbs -> {4}
+bullet -> {10}
+bummer -> {3}
+burger -> {9}
+burn -> {9}
+burned -> {14}
+burst -> {12}
+bus -> {8, 10}
+but -> {0, 1, 2, 3, 4, 6, 9, 11, 12, 13, 14}
+buy -> {5, 7, 10, 12}
+by -> {0, 4, 5, 6, 7, 11, 13, 14}
+caliber -> {10}
+california -> {3, 6, 12}
+called -> {2, 4, 8}
+came -> {2, 4, 6, 7, 10, 11}
+can -> {1, 3, 12, 13, 14}
+candy -> {0, 4}
+cane -> {10}
+canine -> {1}
+cans -> {7}
+canton -> {14}
+captured -> {0}
+car -> {2, 5, 6, 7, 11}
+careful -> {13}
+carpenter -> {4}
+carriages -> {7}
+cars -> {3, 8, 11, 13}
+carson -> {7}
+carts -> {7, 8}
+cat -> {1}
+cataract -> {4}
+cause -> {13}
+caused -> {8}
+causing -> {8}
+cell -> {1, 11}
+cells -> {1}
+cents -> {3, 5}
+certificates -> {9}
+change -> {5, 11}
+changed -> {2}
+changing -> {4}
+channels -> {11}
+charged -> {8, 13}
+chase -> {8}
+cheap -> {3}
+cheaper -> {3}
+check -> {5}
+chef -> {2}
+childless -> {4}
+children -> {5}
+choose -> {11}
+church -> {11}
+cigarettes -> {0}
+cigars -> {0}
+cities -> {6}
+city -> {6, 13}
+clean -> {7}
+cleared -> {14}
+clearing -> {14}
+clicked -> {11}
+clients -> {1}
+clockwork -> {2}
+clone -> {1}
+clones -> {1}
+cloning -> {1}
+close -> {4}
+clothing -> {7}
+club -> {10}
+clubs -> {7}
+coffee -> {9}
+coffers -> {13}
+coin -> {11}
+collection -> {10}
+collision -> {8}
+color -> {2, 10}
+colors -> {7}
+come -> {2, 4, 7, 8, 12}
+comic -> {6}
+community -> {7, 13}
+company -> {1, 11}
+complain -> {2}
+complaints -> {13}
+completely -> {4}
+complex -> {0}
+complications -> {4}
+complied -> {0}
+concerned -> {7}
+condo -> {12}
+condominium -> {12}
+cone -> {7}
+cons -> {13}
+considerate -> {13}
+consideration -> {13}
+consisting -> {7}
+contestant -> {11}
+continued -> {13}
+conversations -> {4}
+convertible -> {9}
+correct -> {11}
+correctional -> {0}
+correctly -> {11}
+cost -> {1, 14}
+could -> {4, 10}
+couldn -> {2}
+counts -> {3}
+county -> {8}
+couple -> {4, 6, 10}
+course -> {3, 7}
+court -> {6}
+crazy -> {12}
+cream -> {7}
+created -> {13}
+creek -> {7}
+crew -> {7}
+crews -> {13}
+crossing -> {11}
+crosswalk -> {8}
+cub -> {7}
+cube -> {11}
+cultured -> {1}
+cup -> {9}
+currently -> {1}
+customers -> {3, 8}
+cut -> {0, 14}
+cutting -> {14}
+cycles -> {12}
+d -> {2, 3}
+daily -> {0}
+damage -> {8}
+day -> {2, 7, 12}
+days -> {1}
+deal -> {0}
+deals -> {6}
+death -> {4}
+debating -> {13}
+debris -> {7}
+decide -> {12}
+decided -> {10}
+decision -> {11, 12}
+delightful -> {2}
+delivered -> {4}
+delivers -> {1}
+demanding -> {0}
+demands -> {0}
+department -> {5}
+departments -> {7}
+desperate -> {12}
+destroyed -> {14}
+details -> {10}
+diabetes -> {4}
+diabetic -> {4}
+dictionaries -> {0}
+did -> {2, 10, 12}
+didn -> {3, 4}
+died -> {4}
+dies -> {1}
+different -> {2, 8}
+dining -> {0}
+directions -> {8}
+director -> {7, 10, 12}
+dirt -> {14}
+discovered -> {0}
+disease -> {4}
+do -> {1, 3, 6, 14}
+does -> {11, 14}
+doesn -> {11, 12}
+dogs -> {1}
+dollars -> {7}
+dolls -> {7}
+dom -> {4}
+dominic -> {4}
+don -> {1, 3, 12, 14}
+donate -> {7}
+done -> {7}
+donna -> {12}
+donor -> {1}
+door -> {0, 2, 4, 5}
+doors -> {0}
+down -> {4, 6, 12}
+downtown -> {8}
+dozen -> {1}
+dreamily -> {11}
+drinks -> {6}
+drive -> {3, 9}
+driver -> {8}
+drivers -> {8}
+driving -> {8}
+drizzle -> {7}
+dropped -> {10}
+drought -> {14}
+drove -> {5, 6, 9}
+during -> {13}
+each -> {6}
+early -> {8}
+earring -> {7}
+economy -> {3}
+eight -> {1, 3, 4, 7}
+either -> {4}
+elevation -> {14}
+elsewhere -> {3}
+embrace -> {6}
+emphysema -> {4}
+employee -> {9}
+empty -> {8}
+ended -> {8}
+ending -> {4}
+english -> {10}
+enough -> {8}
+environmental -> {7}
+erupted -> {0}
+estimated -> {6}
+estrus -> {1}
+ethnic -> {6}
+even -> {1, 3, 4, 6, 7, 12, 13}
+evening -> {9}
+event -> {7}
+ever -> {11}
+everett -> {3}
+every -> {2, 3, 4, 6, 7, 13}
+everyone -> {5, 6, 7, 12}
+exact -> {12}
+except -> {6, 8}
+exchange -> {0}
+excitedly -> {11}
+exhibitors -> {6}
+experimenting -> {1}
+explain -> {6}
+extra -> {9, 13, 14}
+eye -> {4}
+eyesight -> {4}
+facility -> {1}
+fact -> {4}
+failure -> {8}
+families -> {13}
+fantastic -> {6}
+fault -> {9}
+featured -> {6}
+federal -> {11, 14}
+fee -> {6, 13}
+feel -> {12}
+feet -> {14}
+felix -> {1}
+female -> {1, 9}
+festival -> {6}
+festivals -> {6}
+fiction -> {10}
+fight -> {0}
+fill -> {3}
+filled -> {7}
+finally -> {10, 11}
+find -> {8}
+fine -> {13}
+fines -> {13}
+fire -> {7, 8, 14}
+first -> {1, 2, 11, 12, 14}
+five -> {2, 5, 7, 12, 14}
+fixing -> {4}
+flipped -> {11}
+following -> {6, 10}
+food -> {0, 4, 6}
+foods -> {6}
+foot -> {4}
+foothill -> {5}
+for -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+forward -> {14}
+found -> {7}
+founders -> {6}
+four -> {2, 5, 10, 13, 14}
+francisco -> {6}
+free -> {6, 9}
+freeway -> {8}
+fresh -> {1, 4, 9}
+friction -> {13}
+friendly -> {4}
+friends -> {2, 4, 12}
+from -> {4, 6, 7, 8, 10}
+front -> {8}
+fruit -> {4}
+full -> {4, 7, 8}
+funds -> {14}
+furniture -> {7}
+future -> {12, 14}
+gallon -> {3, 5}
+game -> {11}
+gangster -> {10}
+gangsters -> {10}
+garbage -> {7}
+gas -> {3}
+gasoline -> {3}
+gave -> {9}
+gear -> {7}
+generating -> {13}
+get -> {2, 3, 4, 6, 12, 13, 14}
+gets -> {13}
+getting -> {11}
+geyser -> {8}
+gift -> {9}
+give -> {12}
+given -> {6, 9}
+gloves -> {7}
+go -> {2, 3, 4, 9, 10, 12}
+goal -> {1}
+goes -> {1, 2, 6, 12}
+going -> {11, 14}
+golf -> {7}
+gone -> {4}
+good -> {6, 14}
+got -> {4, 5, 8, 11, 14}
+government -> {12, 14}
+grabbed -> {0}
+grand -> {8}
+great -> {6, 7, 12}
+greater -> {11}
+grocery -> {3}
+groups -> {7}
+grow -> {1}
+growing -> {1}
+guarantee -> {11}
+guards -> {0}
+guess -> {11}
+guessed -> {11}
+guessing -> {11}
+guides -> {6}
+gun -> {10}
+gunshots -> {4}
+guy -> {2, 10}
+had -> {0, 2, 3, 4, 8, 10, 11, 12, 13}
+hadn -> {4}
+half -> {0, 1, 4, 6, 7}
+halloween -> {4}
+halt -> {8}
+hamburgers -> {6}
+hamilton -> {14}
+handed -> {4}
+handle -> {1}
+happen -> {8}
+happened -> {4}
+happy -> {2}
+has -> {5, 11, 12, 13}
+hauled -> {0, 7}
+have -> {0, 1, 2, 3, 4, 5, 6, 12, 13, 14}
+haven -> {4}
+having -> {5}
+hawaiian -> {6}
+hazard -> {14}
+he -> {2, 3, 7, 8, 9, 10, 11, 12, 13}
+head -> {2}
+headaches -> {13}
+heads -> {11}
+heard -> {4}
+held -> {0}
+help -> {4, 14}
+her -> {2, 4, 5, 9}
+here -> {3, 6, 7, 12}
+herman -> {9}
+high -> {12, 13, 14}
+higher -> {3, 12}
+hill -> {11}
+him -> {8, 9}
+hire -> {9}
+his -> {2, 3, 4, 7, 8, 9, 10, 11}
+hit -> {11}
+hold -> {13}
+holiday -> {5}
+home -> {2, 5, 10}
+homebuyers -> {12}
+homeowner -> {13}
+homeowners -> {13}
+homes -> {13, 14}
+hope -> {7}
+hopes -> {12}
+horsetrail -> {3}
+hospital -> {8, 11}
+hot -> {5, 9}
+hotel -> {8}
+hour -> {6, 8, 11}
+hourly -> {13}
+hours -> {2, 7, 11}
+house -> {4, 12, 13}
+housing -> {12}
+how -> {6, 12}
+howard -> {2}
+however -> {8, 13}
+huge -> {13}
+hurriedly -> {8}
+husband -> {6}
+hydrant -> {8}
+i -> {2, 3, 4, 12, 14}
+ice -> {6, 7}
+idea -> {6, 12}
+ideas -> {14}
+if -> {1, 2, 6, 11, 12, 13, 14}
+immediately -> {4}
+implanted -> {1}
+in -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+inc -> {1}
+income -> {13}
+incomes -> {13}
+inconsiderate -> {2, 13}
+inevitably -> {12}
+inferno -> {14}
+influence -> {8}
+injured -> {9}
+inmates -> {0}
+insurance -> {11}
+interest -> {4, 12}
+into -> {1, 5, 8, 9, 10, 13}
+invite -> {10}
+irritating -> {2}
+is -> {0, 1, 2, 3, 5, 6, 11, 12, 13, 14}
+isn -> {13}
+issued -> {7}
+it -> {0, 1, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+item -> {0}
+items -> {0}
+its -> {1, 8, 13}
+jail -> {8}
+japanese -> {10}
+jerry -> {10}
+job -> {2, 7}
+john -> {5, 9}
+johnson -> {9}
+joke -> {6}
+joy -> {11}
+jumped -> {11}
+just -> {2, 3, 4, 6, 10, 11}
+kick -> {12}
+kids -> {4, 5}
+killing -> {3}
+kinds -> {4, 6}
+kitten -> {1}
+kittens -> {1}
+knee -> {10}
+knew -> {2, 6}
+know -> {12, 13, 14}
+lake -> {11}
+landfill -> {7}
+landlord -> {2}
+lane -> {9}
+lap -> {9}
+large -> {9}
+last -> {4, 12}
+late -> {13}
+later -> {1, 9, 12}
+latest -> {2}
+lawn -> {13}
+leading -> {8}
+least -> {12}
+lee -> {1}
+left -> {2, 11}
+leftovers -> {2}
+legal -> {0}
+less -> {4}
+let -> {9}
+letting -> {9}
+libraries -> {6}
+life -> {2, 4, 7, 11}
+light -> {4, 7}
+like -> {0, 2, 4, 10, 12}
+liked -> {10}
+limp -> {10}
+line -> {3}
+lined -> {7}
+lines -> {3}
+lips -> {12}
+liquid -> {1}
+listen -> {2, 13}
+listening -> {4}
+little -> {11, 12, 14}
+lived -> {4, 5, 10}
+lives -> {0, 1}
+living -> {14}
+ll -> {12}
+loan -> {14}
+loans -> {14}
+local -> {4, 12}
+long -> {3, 12}
+look -> {14}
+looking -> {12, 14}
+los -> {6, 8}
+lose -> {4, 12}
+lot -> {3, 4, 13}
+lottery -> {11}
+loud -> {13}
+love -> {6}
+loved -> {10}
+lowest -> {3}
+lozano -> {13}
+lucky -> {2, 8, 14}
+luxury -> {0}
+m -> {4, 5, 9, 14}
+made -> {5, 12}
+magazine -> {8}
+magazines -> {0, 6}
+main -> {0}
+maintenance -> {13}
+major -> {14}
+make -> {14}
+making -> {3, 13}
+man -> {2, 3, 4, 8, 9}
+managed -> {8}
+manager -> {3, 9, 10, 13}
+many -> {2, 6}
+market -> {12}
+married -> {4, 5}
+massive -> {14}
+material -> {6}
+mcrap -> {9}
+me -> {2, 3, 4, 14}
+mechanic -> {2}
+medical -> {9}
+meeting -> {13}
+messages -> {0}
+middle -> {2}
+might -> {7, 9, 13}
+mild -> {9}
+mile -> {5, 7, 10}
+miles -> {3}
+milk -> {5}
+milkplus -> {5}
+million -> {7, 14}
+millions -> {2}
+mind -> {3}
+minimum -> {14}
+minor -> {8}
+minutes -> {3, 10}
+money -> {3, 10, 11, 13, 14}
+monica -> {12}
+month -> {4, 11}
+months -> {3}
+more -> {2, 3, 6, 7, 11, 12, 13}
+morning -> {10}
+most -> {2, 6, 8}
+mountain -> {14}
+move -> {12}
+moved -> {2}
+movie -> {6, 10}
+movies -> {6, 10}
+mr -> {4}
+mrs -> {4}
+much -> {3, 7, 11}
+murder -> {4}
+music -> {2, 13}
+must -> {1, 11, 12, 14}
+my -> {2, 3, 4, 12, 14}
+myself -> {2}
+n -> {5}
+name -> {10}
+names -> {13}
+nancy -> {5}
+nationwide -> {12}
+near -> {12}
+nearby -> {14}
+necessary -> {0, 14}
+negotiations -> {0}
+neighbor -> {2, 4}
+neighborhood -> {3, 4}
+neighbors -> {2, 13}
+never -> {4}
+nevertheless -> {1}
+new -> {1, 2, 9, 10, 12}
+newest -> {9}
+newspaper -> {6, 8}
+newsstand -> {8}
+next -> {4, 7, 13, 14}
+nice -> {1, 4, 10, 12}
+nicest -> {4}
+night -> {4, 13}
+nine -> {7}
+ninety -> {14}
+nitrogen -> {1}
+no -> {3, 4, 6, 7, 12, 13, 14}
+nobody -> {6}
+noise -> {13}
+nonfat -> {5}
+nonflammable -> {14}
+north -> {8, 10}
+northville -> {9}
+not -> {8, 9, 11, 12, 14}
+notify -> {1}
+now -> {1, 3, 6, 7, 10, 13}
+number -> {11}
+numbers -> {11}
+nutritious -> {5}
+occurred -> {4, 6, 7}
+occurs -> {6}
+oceanside -> {13}
+octane -> {3}
+of -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+off -> {3, 9, 10}
+offer -> {12}
+offers -> {12}
+officer -> {8}
+officers -> {0, 8}
+official -> {13}
+officials -> {0, 12, 13, 14}
+offset -> {13}
+often -> {3}
+oil -> {2}
+ok -> {3}
+old -> {4, 5, 7, 8, 9, 10, 11, 14}
+on -> {0, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14}
+once -> {0, 4, 14}
+one -> {2, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+ones -> {2, 10}
+only -> {2, 3, 6, 8, 9, 10, 11, 13}
+onto -> {8}
+operation -> {14}
+opportunity -> {12}
+or -> {2, 4, 6, 10, 11, 12, 13}
+order -> {0}
+ordering -> {8, 9}
+other -> {0, 6, 7, 8, 11, 13}
+others -> {13}
+ought -> {14}
+our -> {1, 2, 6, 13}
+out -> {2, 4, 6, 8, 9, 10, 13, 14}
+outdoor -> {6}
+outdoors -> {6}
+outside -> {8}
+over -> {0, 2, 4, 6, 8, 10, 12, 14}
+overpaid -> {12}
+overpaying -> {12}
+own -> {6, 10}
+owner -> {11, 12, 13}
+owners -> {13}
+owns -> {5}
+p -> {9}
+paid -> {5, 12, 14}
+pain -> {4}
+paper -> {0, 12}
+park -> {13}
+parked -> {8}
+parking -> {6, 13}
+part -> {13}
+party -> {13}
+pasadena -> {5}
+passing -> {3, 12}
+pay -> {1, 11, 12, 14}
+paying -> {3}
+penny -> {3}
+people -> {2, 3, 4, 6, 13, 14}
+per -> {3, 13}
+percent -> {0, 2, 3, 6, 12, 13, 14}
+perfect -> {1}
+period -> {6, 11}
+permitted -> {2}
+personal -> {14}
+persons -> {2}
+phoenix -> {1}
+phone -> {11}
+pianist -> {2}
+piano -> {2, 11}
+picked -> {2, 11}
+pile -> {13}
+pine -> {14}
+pistol -> {10}
+pizza -> {10}
+place -> {4, 10, 12}
+planners -> {14}
+plants -> {14}
+plastic -> {7}
+plates -> {0}
+play -> {11}
+played -> {2}
+player -> {2}
+playground -> {14}
+playing -> {2}
+plot -> {10}
+plowed -> {8}
+plus -> {5}
+police -> {2, 3, 4, 7, 8, 13}
+popular -> {0, 6}
+portable -> {7}
+post -> {13}
+practice -> {10}
+practiced -> {2}
+president -> {1}
+pretty -> {3, 14}
+price -> {1, 3, 5, 12}
+prices -> {3, 6, 12, 14}
+prince -> {9}
+prison -> {0}
+prisoners -> {0}
+private -> {14}
+probably -> {9}
+problem -> {9, 13}
+problems -> {13, 14}
+proceeds -> {7}
+produce -> {1, 13}
+profit -> {12}
+property -> {14}
+proposal -> {13}
+proprietor -> {8}
+pros -> {13}
+proven -> {13}
+provide -> {0}
+pulp -> {10}
+pumping -> {3}
+puppies -> {1}
+pursuing -> {8}
+put -> {8, 14}
+quell -> {0}
+question -> {6, 12}
+quieter -> {4}
+quite -> {9}
+radios -> {7}
+raffle -> {11}
+raging -> {14}
+rain -> {7}
+raining -> {10}
+rainstorm -> {14}
+raises -> {2}
+ran -> {8}
+range -> {14}
+rates -> {12}
+rather -> {3}
+ration -> {0}
+rattle -> {10}
+razors -> {0}
+re -> {7}
+reading -> {6}
+reads -> {6}
+ready -> {1}
+realtor -> {12}
+reason -> {2, 3}
+receives -> {1}
+recent -> {14}
+reconsider -> {13}
+reduce -> {0}
+reduced -> {3}
+reduction -> {0}
+refill -> {9}
+refused -> {9}
+regular -> {5}
+related -> {2}
+released -> {0}
+remaining -> {1}
+remarked -> {12}
+remove -> {14}
+removed -> {14}
+rent -> {2, 13}
+rental -> {13}
+rentals -> {13}
+renters -> {2, 13}
+renting -> {2}
+rents -> {6}
+repairs -> {11}
+resident -> {5, 14}
+residents -> {3, 6, 13, 14}
+respond -> {13}
+response -> {13}
+rest -> {7}
+restaurant -> {9, 10}
+restored -> {0}
+resulted -> {13}
+resumed -> {8}
+retired -> {4}
+retirees -> {7}
+return -> {0}
+revolver -> {10}
+rick -> {13}
+right -> {3, 10, 11}
+road -> {12}
+roadside -> {7}
+roof -> {2}
+room -> {0}
+ruined -> {8}
+run -> {3, 8, 11, 12}
+s -> {3, 6, 9, 10, 11, 12, 13, 14}
+sad -> {4}
+safely -> {14}
+said -> {0, 1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14}
+sale -> {5, 12}
+sam -> {11}
+samantha -> {2}
+same -> {4, 12}
+san -> {6}
+sandwich -> {9}
+sandwiches -> {6}
+santa -> {12}
+sara -> {5}
+saturday -> {2, 6, 7, 9, 10}
+save -> {3, 7}
+saved -> {10}
+savings -> {3}
+saw -> {2, 12}
+saxophone -> {2}
+saxophonist -> {2}
+say -> {4, 10, 12, 14}
+saying -> {9}
+says -> {1, 11, 12}
+scalding -> {9}
+scared -> {4}
+scheduled -> {7}
+scoop -> {7}
+scouts -> {7}
+seashell -> {3}
+seatbelt -> {8}
+second -> {11}
+secured -> {0}
+security -> {14}
+seekers -> {6}
+seem -> {1, 2}
+seemed -> {4}
+selected -> {11}
+sell -> {7, 12}
+seller -> {12}
+sent -> {0, 1}
+set -> {7}
+seven -> {5}
+several -> {3, 8}
+shaking -> {8}
+shapes -> {7}
+shave -> {6}
+she -> {2, 4, 5, 9}
+sherman -> {9}
+shiny -> {7}
+shopping -> {5, 7}
+shorter -> {4}
+should -> {13}
+show -> {3}
+sicker -> {4}
+sickness -> {4}
+side -> {8}
+sidewalks -> {13}
+sign -> {11}
+silverware -> {0}
+since -> {5}
+six -> {11, 14}
+sixth -> {6}
+sixty -> {11}
+sizes -> {7}
+skyrocketing -> {3}
+slacks -> {9}
+slam -> {8}
+slammer -> {2}
+sleeping -> {5}
+slice -> {5}
+slightly -> {9}
+slowly -> {11}
+slumped -> {8}
+smiled -> {7}
+smith -> {5}
+sneaking -> {6}
+so -> {3, 4, 6, 7, 8, 10, 11, 12, 13, 14}
+soap -> {0}
+social -> {14}
+sofas -> {7}
+sold -> {6, 12}
+some -> {1, 6, 10, 13}
+something -> {9}
+sometime -> {12}
+sometimes -> {13}
+sought -> {6}
+southern -> {3}
+southland -> {3}
+space -> {6}
+spanish -> {10}
+sparing -> {0}
+specter -> {7}
+spewed -> {8}
+spill -> {9}
+spilled -> {9}
+spinning -> {11}
+sponsored -> {6}
+sports -> {11}
+spring -> {8}
+stain -> {9}
+stand -> {8}
+standing -> {8}
+stars -> {10}
+started -> {8}
+state -> {0, 11, 12, 14}
+station -> {3}
+stationery -> {0}
+stay -> {12}
+steadily -> {4}
+steep -> {1}
+steering -> {8}
+still -> {5, 11, 12, 13}
+stolen -> {8}
+stop -> {8, 11}
+stopped -> {5, 13}
+store -> {3, 5, 10}
+stored -> {1}
+stray -> {1}
+streambed -> {7}
+street -> {5, 8, 11}
+streets -> {13}
+stretch -> {7}
+studio -> {11}
+succeed -> {6}
+successfully -> {1}
+such -> {4, 13}
+sudden -> {14}
+sue -> {9}
+sued -> {11}
+suffered -> {9}
+suggested -> {13}
+suicide -> {4}
+summer -> {13}
+sunday -> {6}
+supposed -> {14}
+surcharge -> {13}
+sure -> {13, 14}
+surround -> {14}
+surrounded -> {14}
+survive -> {14}
+suv -> {8}
+t -> {1, 2, 3, 4, 7, 11, 12, 13, 14}
+table -> {12}
+take -> {7}
+taken -> {8}
+talk -> {4, 6}
+talked -> {4}
+talking -> {4, 11}
+talks -> {6}
+tank -> {3}
+tax -> {5}
+taxes -> {11}
+teen -> {11}
+teenage -> {11}
+teenager -> {11}
+tell -> {3, 4, 10}
+telling -> {12}
+th -> {4}
+than -> {2, 3, 6, 7, 12}
+that -> {0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+the -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+theater -> {10}
+their -> {0, 2, 4, 6, 8, 12, 13, 14}
+thelma -> {14}
+them -> {0, 2, 4, 5, 8, 10, 13}
+themselves -> {14}
+then -> {0, 4, 5, 7, 8, 10, 11, 12, 13, 14}
+there -> {2, 3, 6, 7, 10, 12, 14}
+these -> {1, 12, 13, 14}
+they -> {0, 1, 2, 3, 4, 5, 8, 12, 13, 14}
+thick -> {14}
+thing -> {11}
+things -> {4, 8, 12}
+think -> {13, 14}
+thinks -> {13}
+this -> {0, 1, 3, 6, 11, 13, 14}
+though -> {3}
+thought -> {7, 12}
+thousands -> {14}
+three -> {5, 7, 8, 10, 11, 13}
+threw -> {0, 8}
+through -> {9, 13}
+tim -> {12}
+time -> {1, 4, 7, 10}
+times -> {3, 10, 11}
+tired -> {2, 12}
+tires -> {7}
+to -> {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}
+toaster -> {5}
+today -> {3}
+together -> {4}
+toilet -> {0}
+told -> {2, 12}
+tons -> {4, 7, 14}
+too -> {6}
+took -> {10}
+toppled -> {14}
+toss -> {13}
+totally -> {13}
+tough -> {11}
+toward -> {14}
+tower -> {0}
+town -> {14}
+toyola -> {5}
+trade -> {0}
+traffic -> {3, 6, 14}
+trash -> {7, 13}
+tree -> {14}
+trees -> {14}
+tried -> {0, 8}
+triple -> {7}
+trucks -> {7, 14}
+try -> {14}
+trying -> {3}
+tune -> {2}
+tuner -> {11}
+turned -> {8}
+turning -> {8}
+tv -> {6, 7, 11}
+twenty -> {12}
+twice -> {1, 4, 14}
+twin -> {1}
+two -> {0, 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 14}
+under -> {8, 12}
+underbrush -> {14}
+unemployed -> {11}
+uneventful -> {8}
+unfortunately -> {14}
+unhappy -> {2}
+uninjured -> {8}
+unlucky -> {11}
+unpredictable -> {6}
+until -> {1}
+up -> {0, 2, 5, 7, 11, 12}
+ups -> {2}
+upset -> {9}
+us -> {6}
+use -> {7}
+used -> {3, 4, 10}
+value -> {7}
+variable -> {11}
+variables -> {11}
+ve -> {2, 4, 14}
+vehicle -> {8}
+vehicles -> {3}
+vendor -> {8}
+venice -> {12}
+very -> {6}
+veterinarian -> {1}
+vicky -> {4}
+victoria -> {4}
+video -> {10}
+videos -> {6, 10}
+visiting -> {12}
+visitors -> {13}
+vittorio -> {4}
+vittorios -> {4}
+volunteers -> {7}
+wait -> {1, 3, 6}
+waited -> {3}
+waiting -> {9}
+walked -> {10}
+walks -> {10}
+want -> {12}
+warden -> {0}
+was -> {0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14}
+wash -> {9}
+washes -> {6}
+wasn -> {3}
+watch -> {7, 10}
+watches -> {6}
+watching -> {12}
+water -> {8}
+way -> {5, 14}
+we -> {1, 2, 4, 6, 7, 12, 14}
+weaned -> {1}
+wearing -> {8}
+website -> {13}
+week -> {0, 4, 13}
+weekend -> {2, 6}
+weekly -> {13}
+weeks -> {1}
+well -> {1, 7, 10, 14}
+went -> {0, 5, 8, 10}
+were -> {3, 4, 5, 6, 7, 8, 13}
+west -> {6, 8}
+whales -> {7}
+what -> {12, 14}
+whatever -> {12}
+wheel -> {8}
+wheels -> {3}
+when -> {0, 2, 3, 8, 9, 10, 11, 14}
+where -> {1, 3, 7}
+whether -> {12, 13}
+which -> {0, 3, 11, 12, 13}
+while -> {9, 10, 11, 12}
+whiskey -> {8}
+white -> {10}
+who -> {2, 4, 8, 9, 12, 13}
+whole -> {2}
+whose -> {1}
+why -> {3}
+widow -> {14}
+widowed -> {4}
+wife -> {4}
+will -> {1, 11, 12, 13, 14}
+win -> {11}
+windows -> {0}
+winnings -> {11}
+with -> {0, 1, 2, 3, 4, 6, 7, 8, 10, 13, 14}
+woke -> {5}
+woman -> {4}
+won -> {7, 11, 14}
+work -> {3, 7, 10, 13, 14}
+worked -> {7}
+world -> {2, 4}
+worms -> {13}
+worth -> {7, 11, 12, 13}
+would -> {0, 2, 4, 6, 7, 9, 10, 11, 13}
+wrong -> {2, 12}
+x -> {11}
+year -> {1, 2, 4, 6, 7, 8, 9, 11, 12, 14}
+years -> {3, 4, 5, 6, 7, 10, 11, 12, 13, 14}
+yelling -> {8}
+yellow -> {7}
+yet -> {2}
+yield -> {8}
+you -> {1, 4, 6, 10, 11, 12}
+young -> {3, 9}
+your -> {1, 12}
+yourself -> {12}
